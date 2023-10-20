@@ -1,9 +1,4 @@
-//
-//  ViewController.swift
-//  HW10
-//
-//  Created by Нурдаулет on 19.10.2023.
-//
+
 
 import UIKit
 
